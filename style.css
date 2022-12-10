@@ -1,0 +1,13 @@
+#main{
+    display: flex;
+    width: 98.5vw;
+    height: 100vh;
+    /* background-color: aqua; */
+    /* flex-direction: column; */
+    justify-content: center;
+}
+#img-div img{
+    width:50vw ;
+    height: 50vh;
+    max-width: 100%;
+}
